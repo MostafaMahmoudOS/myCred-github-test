@@ -10,3 +10,4 @@ test add point condition T8
 test add point condition T9
 test add point condition T10
 test add point condition T11
+test add point condition T12
