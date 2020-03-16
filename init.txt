@@ -4,3 +4,4 @@ test add point condition T3
 test add point condition T4
 test add point condition T5
 test add point condition T5
+test add point condition T6
