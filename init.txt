@@ -13,3 +13,4 @@ test add point condition T11
 test add point condition T12
 test add point condition T13
 test add point condition T14
+test add point condition T15
