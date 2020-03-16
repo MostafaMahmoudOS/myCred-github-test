@@ -18,3 +18,4 @@ test add point condition T16
 test add point condition T17
 test add point condition T18
 test add point condition T19
+test add point condition T20
