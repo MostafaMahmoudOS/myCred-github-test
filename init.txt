@@ -1,0 +1,3 @@
+test add point condition T1
+test add point condition T2
+test add point condition T3
