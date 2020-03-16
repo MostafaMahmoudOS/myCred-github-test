@@ -8,3 +8,4 @@ test add point condition T6
 test add point condition T7
 test add point condition T8
 test add point condition T9
+test add point condition T10
