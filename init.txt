@@ -36,3 +36,4 @@ test add point condition T32
 test add point condition T33
 test add point condition T34
 test add point condition T35
+test add point condition T36
