@@ -26,3 +26,5 @@ test add point condition T24
 test add point condition T25
 test add point condition T25
 test add point condition T26
+test add point condition T27
+test add point condition T28
