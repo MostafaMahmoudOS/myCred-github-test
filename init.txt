@@ -31,3 +31,4 @@ test add point condition T28
 
 test add point condition T29
 test add point condition T30
+test add point condition T31
