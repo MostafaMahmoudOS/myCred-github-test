@@ -22,10 +22,6 @@ test add point condition T20
 test add point condition T21
 test add point condition T22
 test add point condition T23
-
 test add point condition T24
-
-
 test add point condition T25
-
 test add point condition T25
