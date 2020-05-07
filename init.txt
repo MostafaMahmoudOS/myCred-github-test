@@ -39,3 +39,4 @@ test add point condition T35
 test add point condition T36
 test add point condition T37
 test add point condition T38
+test add point condition T39
